@@ -1,0 +1,7 @@
+<svg id="srtahovanie" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <rect id="Rectangle" width="28" height="28" fill="#fff" opacity="0.01"/>
+  <g id="Group-10" transform="translate(6 4)">
+    <path id="Rectangle-2" data-name="Rectangle" d="M15.941,2.778,7.732-.818-.56,2.776v8.653c0,3.415,2.646,6.421,7.8,9.059l.709.355.341-.181c5.055-2.685,7.652-5.754,7.652-9.234ZM7.729.818l6.711,2.94v7.671l0,.221c-.108,2.579-2.116,5.017-6.132,7.293l-.379.21-.02-.009C3.216,16.74.94,14.154.94,11.429V3.76Z" fill="#000014"/>
+    <path id="Line-7" d="M8.44-.274V20.274H6.94V-.274Z" fill="#000014"/>
+  </g>
+</svg>
